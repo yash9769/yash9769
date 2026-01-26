@@ -18,28 +18,40 @@ I love exploring how systems work — from **frontend to backend**, **networks t
 
 ## 🧰 Tech Stack
 
-### 💻 Development
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
 
-### 🤖 AI / ML / Computer Vision
-- **Languages:** Python  
-- **Libraries:** NumPy, Pandas, Scikit-learn  
-- **Computer Vision:** OpenCV  
-- **ML Frameworks:** TensorFlow / PyTorch (basics)
+#### 💻 Core Development
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-### 🔐 Cybersecurity & Networking
-- Linux (Kali / Ubuntu)  
-- Networking fundamentals (ARP, DHCP, TCP/IP)  
-- Tools: Nmap, Wireshark, Burp Suite  
-- Platform: TryHackMe  
+---
 
-### 🔧 Tools & Version Control
-- Git & GitHub  
-- REST APIs  
-- VS Code  
+#### 🤖 AI / ML / CV
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
+---
+
+#### 🔐 Cybersecurity Arsenal
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kali-linux&logoColor=blue)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burp-suite&logoColor=FF6633)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+---
+
+#### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ---
 
 ## 📌 What I Like Building
