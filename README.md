@@ -48,19 +48,27 @@ $ goals
 - Merge AI + Cybersecurity
 
 $ tech_stack
-<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,js,linux,vscode,git" alt="Tech icons">
+
+  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,js,linux,vscode,git" alt="Programming &#x26; Tools Icons">
 
 
+  
   <img src="https://img.shields.io/badge/Burp_Suite-4A2C7D?style=for-the-badge&#x26;logo=portswigger&#x26;logoColor=white" alt="Burp Suite">
+   
   <img src="https://img.shields.io/badge/Nmap-4A2C7D?style=for-the-badge&#x26;logo=nmap&#x26;logoColor=white" alt="Nmap">
+   
   <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&#x26;logo=ffuf&#x26;logoColor=white" alt="FFUF">
+   
   <img src="https://img.shields.io/badge/Subfinder-00ADD8?style=for-the-badge&#x26;logo=subfinder&#x26;logoColor=white" alt="Subfinder">
 
 $ stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=yash9769&#x26;show_icons=true&#x26;theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9769&#x26;theme=radical" alt="GitHub Streak">
+  
 
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9769&#x26;theme=radical" alt="GitHub Streak">
+  
 $ mindset
 "Understand systems deeply enough to break them.
 Then build them stronger."
