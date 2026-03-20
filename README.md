@@ -6,13 +6,12 @@
 ---
 
 ### 🔐 Cybersecurity
-- VAPT Intern — web app & network pentesting
 - TryHackMe **Top 15%** globally
 - PortSwigger Web Security Academy
 - Tools: `Burp Suite` `Nmap` `Metasploit` `Wireshark` `SQLMap` `Gobuster` `Subfinder` `FFUF` `Meterpreter`
 
 ### 🤖 AI / ML
-- Crop disease detection — YOLOv8-seg + Grad-CAM (hackathon project)
+- Crop disease detection — YOLOv8-seg + Grad-CAM 
 - ML inference pipelines — FastAPI + Python
 - Healthcare AI — diabetes classification
 
@@ -34,4 +33,4 @@
 
 ---
 
-### 📍 Navi Mumbai, India | Open to VAPT & AI/ML internships
+### 📍 Navi Mumbai, India | Open to VAPT & internships
