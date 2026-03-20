@@ -16,10 +16,6 @@
 - ML inference pipelines — FastAPI + Python
 - Healthcare AI — diabetes classification
 
-### 🔏 Startup
-- Founder @ **dpdp bharat** — DPDP Act & GDPR compliance SaaS
-- Consent log management, RBI compliance, JWT-based auth
-
 ---
 
 ### 🛠 Stack
