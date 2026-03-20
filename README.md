@@ -18,7 +18,7 @@ Hey, I'm Yashodhan 👋
 
 ## 🖥️ $ whoami
 
-```bash
+``
 > VAPT-focused security engineer
 > Breaking web apps (OWASP Top 10)
 > Building tools, labs, and exploits
@@ -49,7 +49,6 @@ $ goals
 - Merge AI + Cybersecurity
 
 $ tech_stack
-
 <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,js,linux,vscode,git" alt="Tech icons">
 
 
