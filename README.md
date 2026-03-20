@@ -50,10 +50,9 @@ $ goals
 
 $ tech_stack
 
-  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,js,linux,vscode,git" alt="Tech icons">
+<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,js,linux,vscode,git" alt="Tech icons">
 
 
-  
   <img src="https://img.shields.io/badge/Burp_Suite-4A2C7D?style=for-the-badge&#x26;logo=portswigger&#x26;logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Nmap-4A2C7D?style=for-the-badge&#x26;logo=nmap&#x26;logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&#x26;logo=ffuf&#x26;logoColor=white" alt="FFUF">
