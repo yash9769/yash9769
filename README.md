@@ -29,21 +29,25 @@ Recon ............ Nmap, Subfinder, FFUF
 Web Exploit ...... XSS, IDOR, SQLi, JWT
 Tools ............ Burp Suite, custom scripts
 Scripting ........ Python, TypeScript
+
 $ vapt-notes
 CTF + TryHackMe writeups
 - Real commands
 - Payloads
 - Methodology
+
 $ current_focus
 - Building vulnerable lab environments
 - Automating recon pipelines
 - Learning exploit chaining
 - Writing deep VAPT notes
+
 $ goals
 - Crack VAPT / Security Engineering role
 - Contribute to bug bounties
 - Build advanced exploitation tools
 - Merge AI + Cybersecurity
+
 $ tech_stack
 
   <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,js,linux,vscode,git" alt="Tech icons">
