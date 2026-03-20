@@ -4,18 +4,26 @@
 **B.Tech IT @ VIT Navi Mumbai** | Cybersecurity + AI/ML
 
 ---
+<!-- HEADER -->
+<h1 align="center">⚡ yash9769</h1>
 
-### 🔐 Cybersecurity
-- TryHackMe **Top 15%** globally
-- PortSwigger Web Security Academy
-- Tools: `Burp Suite` `Nmap` `Metasploit` `Wireshark` `SQLMap` `Gobuster` `Subfinder` `FFUF` `Meterpreter`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=VAPT+Engineer;Web+App+Pentester;Exploit+Developer;Recon+Automation+Builder" />
+</p>
 
-### 🤖 AI / ML
-- Crop disease detection — YOLOv8-seg + Grad-CAM 
-- ML inference pipelines — FastAPI + Python
-- Healthcare AI — diabetes classification
+<p align="center">
+  🛡️ Offensive Security | ⚡ Recon Automation | 🤖 AI/ML
+</p>
 
 ---
+
+## 🖥️ $ whoami
+
+```bash
+> VAPT-focused security engineer
+> Breaking web apps (OWASP Top 10)
+> Building tools, labs, and exploits
+> Exploring AI for security systems
 
 ### 🛠 Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
