@@ -18,7 +18,6 @@ Hey, I'm Yashodhan 👋
 
 ## 🖥️ $ whoami
 
-``
 > VAPT-focused security engineer
 > Breaking web apps (OWASP Top 10)
 > Building tools, labs, and exploits
